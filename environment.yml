@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python =3.13
   - pysal
-  - geosnap
+  - geosnap >=0.16
   - osmnx
   - seaborn
   - statsmodels
