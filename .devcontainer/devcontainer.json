@@ -53,7 +53,7 @@
 			]
 		}
 	}, 
-	"postCreateCommand": "conda env create -f environment.yml && conda activate uppp135-winter26"
+	"postCreateCommand": "conda env create -f environment.yml && conda init && conda activate uppp135-winter26"
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }
