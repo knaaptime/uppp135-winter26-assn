@@ -1,0 +1,20 @@
+# Assignment One
+
+
+this cell always renders
+
+```{python}
+import libpysal
+```
+
+
+::: {.content-visible when-profile="answers"}
+
+this should only be visible when we activate the answer key
+
+```{python}
+print('hidden unless answers')
+```
+
+:::
+
